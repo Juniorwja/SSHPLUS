@@ -6,3 +6,7 @@ apt update -y && apt upgrade -y && wget https://raw.githubusercontent.com/Junior
 #Acessa Root
 
 wget https://raw.githubusercontent.com/Juniorwja/SSHPLUS/main/senharoot.sh && chmod 777 senharoot.sh && ./senharoot.sh
+
+#SCRIPT EDITADO E MONTADO POR @Kaua_VPN 
+
+https://t.me/kaua_vpn
